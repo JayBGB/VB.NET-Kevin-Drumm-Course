@@ -1,0 +1,12 @@
+C:\Users\Borja\source\repos\ArrayVariables\ArrayVariables\bin\Debug\ArrayVariables.exe.config
+C:\Users\Borja\source\repos\ArrayVariables\ArrayVariables\bin\Debug\ArrayVariables.exe
+C:\Users\Borja\source\repos\ArrayVariables\ArrayVariables\bin\Debug\ArrayVariables.pdb
+C:\Users\Borja\source\repos\ArrayVariables\ArrayVariables\bin\Debug\ArrayVariables.xml
+C:\Users\Borja\source\repos\ArrayVariables\ArrayVariables\obj\Debug\ArrayVariables.Form1.resources
+C:\Users\Borja\source\repos\ArrayVariables\ArrayVariables\obj\Debug\ArrayVariables.Resources.resources
+C:\Users\Borja\source\repos\ArrayVariables\ArrayVariables\obj\Debug\ArrayVariables.vbproj.GenerateResource.cache
+C:\Users\Borja\source\repos\ArrayVariables\ArrayVariables\obj\Debug\ArrayVariables.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\source\repos\ArrayVariables\ArrayVariables\obj\Debug\ArrayVariables.exe
+C:\Users\Borja\source\repos\ArrayVariables\ArrayVariables\obj\Debug\ArrayVariables.xml
+C:\Users\Borja\source\repos\ArrayVariables\ArrayVariables\obj\Debug\ArrayVariables.pdb
+C:\Users\Borja\source\repos\ArrayVariables\ArrayVariables\obj\Debug\ArrayVariables.vbprojAssemblyReference.cache

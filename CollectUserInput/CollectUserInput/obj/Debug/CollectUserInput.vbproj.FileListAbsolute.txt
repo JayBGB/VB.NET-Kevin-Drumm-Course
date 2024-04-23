@@ -1,0 +1,11 @@
+C:\Users\Borja\VisualBasicLearning\CollectUserInput\CollectUserInput\bin\Debug\CollectUserInput.exe.config
+C:\Users\Borja\VisualBasicLearning\CollectUserInput\CollectUserInput\bin\Debug\CollectUserInput.exe
+C:\Users\Borja\VisualBasicLearning\CollectUserInput\CollectUserInput\bin\Debug\CollectUserInput.pdb
+C:\Users\Borja\VisualBasicLearning\CollectUserInput\CollectUserInput\bin\Debug\CollectUserInput.xml
+C:\Users\Borja\VisualBasicLearning\CollectUserInput\CollectUserInput\obj\Debug\CollectUserInput.Form1.resources
+C:\Users\Borja\VisualBasicLearning\CollectUserInput\CollectUserInput\obj\Debug\CollectUserInput.Resources.resources
+C:\Users\Borja\VisualBasicLearning\CollectUserInput\CollectUserInput\obj\Debug\CollectUserInput.vbproj.GenerateResource.cache
+C:\Users\Borja\VisualBasicLearning\CollectUserInput\CollectUserInput\obj\Debug\CollectUserInput.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\VisualBasicLearning\CollectUserInput\CollectUserInput\obj\Debug\CollectUserInput.exe
+C:\Users\Borja\VisualBasicLearning\CollectUserInput\CollectUserInput\obj\Debug\CollectUserInput.xml
+C:\Users\Borja\VisualBasicLearning\CollectUserInput\CollectUserInput\obj\Debug\CollectUserInput.pdb

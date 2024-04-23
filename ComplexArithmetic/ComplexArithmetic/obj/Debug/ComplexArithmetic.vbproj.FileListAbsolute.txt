@@ -1,0 +1,11 @@
+C:\Users\Borja\VisualBasicLearning\ComplexArithmetic\ComplexArithmetic\bin\Debug\ComplexArithmetic.exe.config
+C:\Users\Borja\VisualBasicLearning\ComplexArithmetic\ComplexArithmetic\bin\Debug\ComplexArithmetic.exe
+C:\Users\Borja\VisualBasicLearning\ComplexArithmetic\ComplexArithmetic\bin\Debug\ComplexArithmetic.pdb
+C:\Users\Borja\VisualBasicLearning\ComplexArithmetic\ComplexArithmetic\bin\Debug\ComplexArithmetic.xml
+C:\Users\Borja\VisualBasicLearning\ComplexArithmetic\ComplexArithmetic\obj\Debug\ComplexArithmetic.Form1.resources
+C:\Users\Borja\VisualBasicLearning\ComplexArithmetic\ComplexArithmetic\obj\Debug\ComplexArithmetic.Resources.resources
+C:\Users\Borja\VisualBasicLearning\ComplexArithmetic\ComplexArithmetic\obj\Debug\ComplexArithmetic.vbproj.GenerateResource.cache
+C:\Users\Borja\VisualBasicLearning\ComplexArithmetic\ComplexArithmetic\obj\Debug\ComplexArithmetic.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\VisualBasicLearning\ComplexArithmetic\ComplexArithmetic\obj\Debug\ComplexArithmetic.exe
+C:\Users\Borja\VisualBasicLearning\ComplexArithmetic\ComplexArithmetic\obj\Debug\ComplexArithmetic.xml
+C:\Users\Borja\VisualBasicLearning\ComplexArithmetic\ComplexArithmetic\obj\Debug\ComplexArithmetic.pdb

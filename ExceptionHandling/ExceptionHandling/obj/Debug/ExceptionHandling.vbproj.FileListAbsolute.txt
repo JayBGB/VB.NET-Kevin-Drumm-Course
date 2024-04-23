@@ -1,0 +1,11 @@
+C:\Users\Borja\source\repos\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\Borja\source\repos\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\Borja\source\repos\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\Borja\source\repos\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.xml
+C:\Users\Borja\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.Form1.resources
+C:\Users\Borja\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.Resources.resources
+C:\Users\Borja\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.vbproj.GenerateResource.cache
+C:\Users\Borja\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\Borja\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.xml
+C:\Users\Borja\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

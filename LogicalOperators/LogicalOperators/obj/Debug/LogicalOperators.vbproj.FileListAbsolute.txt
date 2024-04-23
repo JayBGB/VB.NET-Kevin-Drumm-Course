@@ -1,0 +1,11 @@
+C:\Users\Borja\VisualBasicLearning\LogicalOperators\LogicalOperators\bin\Debug\LogicalOperators.exe.config
+C:\Users\Borja\VisualBasicLearning\LogicalOperators\LogicalOperators\bin\Debug\LogicalOperators.exe
+C:\Users\Borja\VisualBasicLearning\LogicalOperators\LogicalOperators\bin\Debug\LogicalOperators.pdb
+C:\Users\Borja\VisualBasicLearning\LogicalOperators\LogicalOperators\bin\Debug\LogicalOperators.xml
+C:\Users\Borja\VisualBasicLearning\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.Form1.resources
+C:\Users\Borja\VisualBasicLearning\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.Resources.resources
+C:\Users\Borja\VisualBasicLearning\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.vbproj.GenerateResource.cache
+C:\Users\Borja\VisualBasicLearning\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\VisualBasicLearning\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.exe
+C:\Users\Borja\VisualBasicLearning\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.xml
+C:\Users\Borja\VisualBasicLearning\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.pdb

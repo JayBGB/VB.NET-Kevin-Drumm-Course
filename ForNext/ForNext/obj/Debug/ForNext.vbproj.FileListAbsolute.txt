@@ -1,0 +1,11 @@
+C:\Users\Borja\VisualBasicLearning\ForNext\ForNext\bin\Debug\ForNext.exe.config
+C:\Users\Borja\VisualBasicLearning\ForNext\ForNext\bin\Debug\ForNext.exe
+C:\Users\Borja\VisualBasicLearning\ForNext\ForNext\bin\Debug\ForNext.pdb
+C:\Users\Borja\VisualBasicLearning\ForNext\ForNext\bin\Debug\ForNext.xml
+C:\Users\Borja\VisualBasicLearning\ForNext\ForNext\obj\Debug\ForNext.Form1.resources
+C:\Users\Borja\VisualBasicLearning\ForNext\ForNext\obj\Debug\ForNext.Resources.resources
+C:\Users\Borja\VisualBasicLearning\ForNext\ForNext\obj\Debug\ForNext.vbproj.GenerateResource.cache
+C:\Users\Borja\VisualBasicLearning\ForNext\ForNext\obj\Debug\ForNext.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\VisualBasicLearning\ForNext\ForNext\obj\Debug\ForNext.exe
+C:\Users\Borja\VisualBasicLearning\ForNext\ForNext\obj\Debug\ForNext.xml
+C:\Users\Borja\VisualBasicLearning\ForNext\ForNext\obj\Debug\ForNext.pdb

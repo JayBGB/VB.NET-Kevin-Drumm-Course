@@ -1,0 +1,11 @@
+C:\Users\Borja\source\repos\ProcedureParameters\ProcedureParameters\obj\Debug\ProcedureParameters.Form1.resources
+C:\Users\Borja\source\repos\ProcedureParameters\ProcedureParameters\obj\Debug\ProcedureParameters.Resources.resources
+C:\Users\Borja\source\repos\ProcedureParameters\ProcedureParameters\obj\Debug\ProcedureParameters.vbproj.GenerateResource.cache
+C:\Users\Borja\source\repos\ProcedureParameters\ProcedureParameters\obj\Debug\ProcedureParameters.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\source\repos\ProcedureParameters\ProcedureParameters\bin\Debug\ProcedureParameters.exe.config
+C:\Users\Borja\source\repos\ProcedureParameters\ProcedureParameters\bin\Debug\ProcedureParameters.exe
+C:\Users\Borja\source\repos\ProcedureParameters\ProcedureParameters\bin\Debug\ProcedureParameters.pdb
+C:\Users\Borja\source\repos\ProcedureParameters\ProcedureParameters\bin\Debug\ProcedureParameters.xml
+C:\Users\Borja\source\repos\ProcedureParameters\ProcedureParameters\obj\Debug\ProcedureParameters.exe
+C:\Users\Borja\source\repos\ProcedureParameters\ProcedureParameters\obj\Debug\ProcedureParameters.xml
+C:\Users\Borja\source\repos\ProcedureParameters\ProcedureParameters\obj\Debug\ProcedureParameters.pdb

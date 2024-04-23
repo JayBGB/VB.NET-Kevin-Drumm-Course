@@ -1,0 +1,12 @@
+C:\Users\Borja\VisualBasicLearning\Selection\Selection\bin\Debug\Selection.exe.config
+C:\Users\Borja\VisualBasicLearning\Selection\Selection\bin\Debug\Selection.exe
+C:\Users\Borja\VisualBasicLearning\Selection\Selection\bin\Debug\Selection.pdb
+C:\Users\Borja\VisualBasicLearning\Selection\Selection\bin\Debug\Selection.xml
+C:\Users\Borja\VisualBasicLearning\Selection\Selection\obj\Debug\Selection.vbprojAssemblyReference.cache
+C:\Users\Borja\VisualBasicLearning\Selection\Selection\obj\Debug\Selection.Form1.resources
+C:\Users\Borja\VisualBasicLearning\Selection\Selection\obj\Debug\Selection.Resources.resources
+C:\Users\Borja\VisualBasicLearning\Selection\Selection\obj\Debug\Selection.vbproj.GenerateResource.cache
+C:\Users\Borja\VisualBasicLearning\Selection\Selection\obj\Debug\Selection.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\VisualBasicLearning\Selection\Selection\obj\Debug\Selection.exe
+C:\Users\Borja\VisualBasicLearning\Selection\Selection\obj\Debug\Selection.xml
+C:\Users\Borja\VisualBasicLearning\Selection\Selection\obj\Debug\Selection.pdb

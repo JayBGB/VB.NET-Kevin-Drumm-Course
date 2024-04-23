@@ -1,0 +1,12 @@
+C:\Users\Borja\source\repos\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe.config
+C:\Users\Borja\source\repos\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe
+C:\Users\Borja\source\repos\LinearSearch\LinearSearch\bin\Debug\LinearSearch.pdb
+C:\Users\Borja\source\repos\LinearSearch\LinearSearch\bin\Debug\LinearSearch.xml
+C:\Users\Borja\source\repos\LinearSearch\LinearSearch\obj\Debug\LinearSearch.vbprojAssemblyReference.cache
+C:\Users\Borja\source\repos\LinearSearch\LinearSearch\obj\Debug\LinearSearch.Form1.resources
+C:\Users\Borja\source\repos\LinearSearch\LinearSearch\obj\Debug\LinearSearch.Resources.resources
+C:\Users\Borja\source\repos\LinearSearch\LinearSearch\obj\Debug\LinearSearch.vbproj.GenerateResource.cache
+C:\Users\Borja\source\repos\LinearSearch\LinearSearch\obj\Debug\LinearSearch.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\source\repos\LinearSearch\LinearSearch\obj\Debug\LinearSearch.exe
+C:\Users\Borja\source\repos\LinearSearch\LinearSearch\obj\Debug\LinearSearch.xml
+C:\Users\Borja\source\repos\LinearSearch\LinearSearch\obj\Debug\LinearSearch.pdb

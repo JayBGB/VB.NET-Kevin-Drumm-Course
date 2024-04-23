@@ -1,0 +1,12 @@
+C:\Users\Borja\source\repos\WorkingWithTextFiles\WorkingWithTextFiles\bin\Debug\WorkingWithTextFiles.exe.config
+C:\Users\Borja\source\repos\WorkingWithTextFiles\WorkingWithTextFiles\bin\Debug\WorkingWithTextFiles.exe
+C:\Users\Borja\source\repos\WorkingWithTextFiles\WorkingWithTextFiles\bin\Debug\WorkingWithTextFiles.pdb
+C:\Users\Borja\source\repos\WorkingWithTextFiles\WorkingWithTextFiles\bin\Debug\WorkingWithTextFiles.xml
+C:\Users\Borja\source\repos\WorkingWithTextFiles\WorkingWithTextFiles\obj\Debug\WorkingWithTextFiles.vbprojAssemblyReference.cache
+C:\Users\Borja\source\repos\WorkingWithTextFiles\WorkingWithTextFiles\obj\Debug\WorkingWithTextFiles.Form1.resources
+C:\Users\Borja\source\repos\WorkingWithTextFiles\WorkingWithTextFiles\obj\Debug\WorkingWithTextFiles.Resources.resources
+C:\Users\Borja\source\repos\WorkingWithTextFiles\WorkingWithTextFiles\obj\Debug\WorkingWithTextFiles.vbproj.GenerateResource.cache
+C:\Users\Borja\source\repos\WorkingWithTextFiles\WorkingWithTextFiles\obj\Debug\WorkingWithTextFiles.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\source\repos\WorkingWithTextFiles\WorkingWithTextFiles\obj\Debug\WorkingWithTextFiles.exe
+C:\Users\Borja\source\repos\WorkingWithTextFiles\WorkingWithTextFiles\obj\Debug\WorkingWithTextFiles.xml
+C:\Users\Borja\source\repos\WorkingWithTextFiles\WorkingWithTextFiles\obj\Debug\WorkingWithTextFiles.pdb

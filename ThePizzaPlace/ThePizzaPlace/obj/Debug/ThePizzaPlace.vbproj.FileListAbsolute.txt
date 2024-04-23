@@ -1,0 +1,16 @@
+C:\Users\Borja\source\repos\ThePizzaPlace\ThePizzaPlace\bin\Debug\ThePizzaPlace.exe.config
+C:\Users\Borja\source\repos\ThePizzaPlace\ThePizzaPlace\bin\Debug\ThePizzaPlace.exe
+C:\Users\Borja\source\repos\ThePizzaPlace\ThePizzaPlace\bin\Debug\ThePizzaPlace.pdb
+C:\Users\Borja\source\repos\ThePizzaPlace\ThePizzaPlace\bin\Debug\ThePizzaPlace.xml
+C:\Users\Borja\source\repos\ThePizzaPlace\ThePizzaPlace\obj\Debug\ThePizzaPlace.Form1.resources
+C:\Users\Borja\source\repos\ThePizzaPlace\ThePizzaPlace\obj\Debug\ThePizzaPlace.Resources.resources
+C:\Users\Borja\source\repos\ThePizzaPlace\ThePizzaPlace\obj\Debug\ThePizzaPlace.vbproj.GenerateResource.cache
+C:\Users\Borja\source\repos\ThePizzaPlace\ThePizzaPlace\obj\Debug\ThePizzaPlace.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\source\repos\ThePizzaPlace\ThePizzaPlace\obj\Debug\ThePizzaPlace.exe
+C:\Users\Borja\source\repos\ThePizzaPlace\ThePizzaPlace\obj\Debug\ThePizzaPlace.xml
+C:\Users\Borja\source\repos\ThePizzaPlace\ThePizzaPlace\obj\Debug\ThePizzaPlace.pdb
+C:\Users\Borja\source\repos\ThePizzaPlace\ThePizzaPlace\bin\Debug\orderProcessing.dll
+C:\Users\Borja\source\repos\ThePizzaPlace\ThePizzaPlace\bin\Debug\orderProcessing.pdb
+C:\Users\Borja\source\repos\ThePizzaPlace\ThePizzaPlace\bin\Debug\orderProcessing.xml
+C:\Users\Borja\source\repos\ThePizzaPlace\ThePizzaPlace\obj\Debug\ThePizzaPlace.vbprojAssemblyReference.cache
+C:\Users\Borja\source\repos\ThePizzaPlace\ThePizzaPlace\obj\Debug\ThePizzaPlace.vbproj.CopyComplete

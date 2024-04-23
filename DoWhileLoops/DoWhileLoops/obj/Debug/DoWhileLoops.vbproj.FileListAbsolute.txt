@@ -1,0 +1,12 @@
+C:\Users\Borja\source\repos\DoWhileLoops\DoWhileLoops\bin\Debug\DoWhileLoops.exe.config
+C:\Users\Borja\source\repos\DoWhileLoops\DoWhileLoops\bin\Debug\DoWhileLoops.exe
+C:\Users\Borja\source\repos\DoWhileLoops\DoWhileLoops\bin\Debug\DoWhileLoops.pdb
+C:\Users\Borja\source\repos\DoWhileLoops\DoWhileLoops\bin\Debug\DoWhileLoops.xml
+C:\Users\Borja\source\repos\DoWhileLoops\DoWhileLoops\obj\Debug\DoWhileLoops.vbprojAssemblyReference.cache
+C:\Users\Borja\source\repos\DoWhileLoops\DoWhileLoops\obj\Debug\DoWhileLoops.Form1.resources
+C:\Users\Borja\source\repos\DoWhileLoops\DoWhileLoops\obj\Debug\DoWhileLoops.Resources.resources
+C:\Users\Borja\source\repos\DoWhileLoops\DoWhileLoops\obj\Debug\DoWhileLoops.vbproj.GenerateResource.cache
+C:\Users\Borja\source\repos\DoWhileLoops\DoWhileLoops\obj\Debug\DoWhileLoops.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\source\repos\DoWhileLoops\DoWhileLoops\obj\Debug\DoWhileLoops.exe
+C:\Users\Borja\source\repos\DoWhileLoops\DoWhileLoops\obj\Debug\DoWhileLoops.xml
+C:\Users\Borja\source\repos\DoWhileLoops\DoWhileLoops\obj\Debug\DoWhileLoops.pdb

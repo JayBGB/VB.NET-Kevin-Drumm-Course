@@ -1,0 +1,11 @@
+C:\Users\Borja\source\repos\WriteYourOwnFunctions\WriteYourOwnFunctions\bin\Debug\WriteYourOwnFunctions.exe.config
+C:\Users\Borja\source\repos\WriteYourOwnFunctions\WriteYourOwnFunctions\bin\Debug\WriteYourOwnFunctions.exe
+C:\Users\Borja\source\repos\WriteYourOwnFunctions\WriteYourOwnFunctions\bin\Debug\WriteYourOwnFunctions.pdb
+C:\Users\Borja\source\repos\WriteYourOwnFunctions\WriteYourOwnFunctions\bin\Debug\WriteYourOwnFunctions.xml
+C:\Users\Borja\source\repos\WriteYourOwnFunctions\WriteYourOwnFunctions\obj\Debug\WriteYourOwnFunctions.Form1.resources
+C:\Users\Borja\source\repos\WriteYourOwnFunctions\WriteYourOwnFunctions\obj\Debug\WriteYourOwnFunctions.Resources.resources
+C:\Users\Borja\source\repos\WriteYourOwnFunctions\WriteYourOwnFunctions\obj\Debug\WriteYourOwnFunctions.vbproj.GenerateResource.cache
+C:\Users\Borja\source\repos\WriteYourOwnFunctions\WriteYourOwnFunctions\obj\Debug\WriteYourOwnFunctions.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\source\repos\WriteYourOwnFunctions\WriteYourOwnFunctions\obj\Debug\WriteYourOwnFunctions.exe
+C:\Users\Borja\source\repos\WriteYourOwnFunctions\WriteYourOwnFunctions\obj\Debug\WriteYourOwnFunctions.xml
+C:\Users\Borja\source\repos\WriteYourOwnFunctions\WriteYourOwnFunctions\obj\Debug\WriteYourOwnFunctions.pdb

@@ -1,0 +1,12 @@
+C:\Users\Borja\source\repos\Events\Events\bin\Debug\Events.exe.config
+C:\Users\Borja\source\repos\Events\Events\bin\Debug\Events.exe
+C:\Users\Borja\source\repos\Events\Events\bin\Debug\Events.pdb
+C:\Users\Borja\source\repos\Events\Events\bin\Debug\Events.xml
+C:\Users\Borja\source\repos\Events\Events\obj\Debug\Events.vbprojAssemblyReference.cache
+C:\Users\Borja\source\repos\Events\Events\obj\Debug\Events.Form1.resources
+C:\Users\Borja\source\repos\Events\Events\obj\Debug\Events.Resources.resources
+C:\Users\Borja\source\repos\Events\Events\obj\Debug\Events.vbproj.GenerateResource.cache
+C:\Users\Borja\source\repos\Events\Events\obj\Debug\Events.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\source\repos\Events\Events\obj\Debug\Events.exe
+C:\Users\Borja\source\repos\Events\Events\obj\Debug\Events.xml
+C:\Users\Borja\source\repos\Events\Events\obj\Debug\Events.pdb

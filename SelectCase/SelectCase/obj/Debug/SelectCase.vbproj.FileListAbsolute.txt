@@ -1,0 +1,11 @@
+C:\Users\Borja\VisualBasicLearning\SelectCase\SelectCase\bin\Debug\SelectCase.exe.config
+C:\Users\Borja\VisualBasicLearning\SelectCase\SelectCase\bin\Debug\SelectCase.exe
+C:\Users\Borja\VisualBasicLearning\SelectCase\SelectCase\bin\Debug\SelectCase.pdb
+C:\Users\Borja\VisualBasicLearning\SelectCase\SelectCase\bin\Debug\SelectCase.xml
+C:\Users\Borja\VisualBasicLearning\SelectCase\SelectCase\obj\Debug\SelectCase.Form1.resources
+C:\Users\Borja\VisualBasicLearning\SelectCase\SelectCase\obj\Debug\SelectCase.Resources.resources
+C:\Users\Borja\VisualBasicLearning\SelectCase\SelectCase\obj\Debug\SelectCase.vbproj.GenerateResource.cache
+C:\Users\Borja\VisualBasicLearning\SelectCase\SelectCase\obj\Debug\SelectCase.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\VisualBasicLearning\SelectCase\SelectCase\obj\Debug\SelectCase.exe
+C:\Users\Borja\VisualBasicLearning\SelectCase\SelectCase\obj\Debug\SelectCase.xml
+C:\Users\Borja\VisualBasicLearning\SelectCase\SelectCase\obj\Debug\SelectCase.pdb

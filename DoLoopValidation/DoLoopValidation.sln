@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DoLoopValidation", "DoLoopValidation\DoLoopValidation.vbproj", "{C3962026-A9DE-43EB-9253-EFD2673EDF80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3962026-A9DE-43EB-9253-EFD2673EDF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3962026-A9DE-43EB-9253-EFD2673EDF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3962026-A9DE-43EB-9253-EFD2673EDF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3962026-A9DE-43EB-9253-EFD2673EDF80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E50AC8F1-5590-43B1-A5A2-29EAC650682C}
+	EndGlobalSection
+EndGlobal

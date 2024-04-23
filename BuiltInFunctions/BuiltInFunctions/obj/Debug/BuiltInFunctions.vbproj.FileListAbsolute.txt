@@ -1,0 +1,12 @@
+C:\Users\Borja\source\repos\BuiltInFunctions\BuiltInFunctions\bin\Debug\BuiltInFunctions.exe.config
+C:\Users\Borja\source\repos\BuiltInFunctions\BuiltInFunctions\bin\Debug\BuiltInFunctions.exe
+C:\Users\Borja\source\repos\BuiltInFunctions\BuiltInFunctions\bin\Debug\BuiltInFunctions.pdb
+C:\Users\Borja\source\repos\BuiltInFunctions\BuiltInFunctions\bin\Debug\BuiltInFunctions.xml
+C:\Users\Borja\source\repos\BuiltInFunctions\BuiltInFunctions\obj\Debug\BuiltInFunctions.vbprojAssemblyReference.cache
+C:\Users\Borja\source\repos\BuiltInFunctions\BuiltInFunctions\obj\Debug\BuiltInFunctions.Form1.resources
+C:\Users\Borja\source\repos\BuiltInFunctions\BuiltInFunctions\obj\Debug\BuiltInFunctions.Resources.resources
+C:\Users\Borja\source\repos\BuiltInFunctions\BuiltInFunctions\obj\Debug\BuiltInFunctions.vbproj.GenerateResource.cache
+C:\Users\Borja\source\repos\BuiltInFunctions\BuiltInFunctions\obj\Debug\BuiltInFunctions.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\source\repos\BuiltInFunctions\BuiltInFunctions\obj\Debug\BuiltInFunctions.exe
+C:\Users\Borja\source\repos\BuiltInFunctions\BuiltInFunctions\obj\Debug\BuiltInFunctions.xml
+C:\Users\Borja\source\repos\BuiltInFunctions\BuiltInFunctions\obj\Debug\BuiltInFunctions.pdb

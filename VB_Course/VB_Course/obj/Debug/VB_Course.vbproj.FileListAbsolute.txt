@@ -1,0 +1,12 @@
+C:\Users\Borja\VisualBasicLearning\VB_Course\VB_Course\bin\Debug\VB_Course.exe.config
+C:\Users\Borja\VisualBasicLearning\VB_Course\VB_Course\bin\Debug\VB_Course.exe
+C:\Users\Borja\VisualBasicLearning\VB_Course\VB_Course\bin\Debug\VB_Course.pdb
+C:\Users\Borja\VisualBasicLearning\VB_Course\VB_Course\bin\Debug\VB_Course.xml
+C:\Users\Borja\VisualBasicLearning\VB_Course\VB_Course\obj\Debug\VB_Course.vbprojAssemblyReference.cache
+C:\Users\Borja\VisualBasicLearning\VB_Course\VB_Course\obj\Debug\VB_Course.Form1.resources
+C:\Users\Borja\VisualBasicLearning\VB_Course\VB_Course\obj\Debug\VB_Course.Resources.resources
+C:\Users\Borja\VisualBasicLearning\VB_Course\VB_Course\obj\Debug\VB_Course.vbproj.GenerateResource.cache
+C:\Users\Borja\VisualBasicLearning\VB_Course\VB_Course\obj\Debug\VB_Course.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\VisualBasicLearning\VB_Course\VB_Course\obj\Debug\VB_Course.exe
+C:\Users\Borja\VisualBasicLearning\VB_Course\VB_Course\obj\Debug\VB_Course.xml
+C:\Users\Borja\VisualBasicLearning\VB_Course\VB_Course\obj\Debug\VB_Course.pdb

@@ -1,0 +1,12 @@
+C:\Users\Borja\VisualBasicLearning\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe.config
+C:\Users\Borja\VisualBasicLearning\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe
+C:\Users\Borja\VisualBasicLearning\Arithmetic\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\Borja\VisualBasicLearning\Arithmetic\Arithmetic\bin\Debug\Arithmetic.xml
+C:\Users\Borja\VisualBasicLearning\Arithmetic\Arithmetic\obj\Debug\Arithmetic.vbprojAssemblyReference.cache
+C:\Users\Borja\VisualBasicLearning\Arithmetic\Arithmetic\obj\Debug\Arithmetic.Form1.resources
+C:\Users\Borja\VisualBasicLearning\Arithmetic\Arithmetic\obj\Debug\Arithmetic.Resources.resources
+C:\Users\Borja\VisualBasicLearning\Arithmetic\Arithmetic\obj\Debug\Arithmetic.vbproj.GenerateResource.cache
+C:\Users\Borja\VisualBasicLearning\Arithmetic\Arithmetic\obj\Debug\Arithmetic.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\VisualBasicLearning\Arithmetic\Arithmetic\obj\Debug\Arithmetic.exe
+C:\Users\Borja\VisualBasicLearning\Arithmetic\Arithmetic\obj\Debug\Arithmetic.xml
+C:\Users\Borja\VisualBasicLearning\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb

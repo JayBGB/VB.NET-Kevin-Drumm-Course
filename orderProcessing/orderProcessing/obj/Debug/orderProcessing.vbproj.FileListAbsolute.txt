@@ -1,0 +1,10 @@
+C:\Users\Borja\source\repos\orderProcessing\orderProcessing\bin\Debug\orderProcessing.dll
+C:\Users\Borja\source\repos\orderProcessing\orderProcessing\bin\Debug\orderProcessing.pdb
+C:\Users\Borja\source\repos\orderProcessing\orderProcessing\bin\Debug\orderProcessing.xml
+C:\Users\Borja\source\repos\orderProcessing\orderProcessing\obj\Debug\orderProcessing.vbprojAssemblyReference.cache
+C:\Users\Borja\source\repos\orderProcessing\orderProcessing\obj\Debug\orderProcessing.Resources.resources
+C:\Users\Borja\source\repos\orderProcessing\orderProcessing\obj\Debug\orderProcessing.vbproj.GenerateResource.cache
+C:\Users\Borja\source\repos\orderProcessing\orderProcessing\obj\Debug\orderProcessing.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\source\repos\orderProcessing\orderProcessing\obj\Debug\orderProcessing.dll
+C:\Users\Borja\source\repos\orderProcessing\orderProcessing\obj\Debug\orderProcessing.xml
+C:\Users\Borja\source\repos\orderProcessing\orderProcessing\obj\Debug\orderProcessing.pdb

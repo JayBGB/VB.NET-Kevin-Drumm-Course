@@ -1,0 +1,12 @@
+C:\Users\Borja\VisualBasicLearning\OutputAndVariables\OutputAndVariables\bin\Debug\OutputAndVariables.exe.config
+C:\Users\Borja\VisualBasicLearning\OutputAndVariables\OutputAndVariables\bin\Debug\OutputAndVariables.exe
+C:\Users\Borja\VisualBasicLearning\OutputAndVariables\OutputAndVariables\bin\Debug\OutputAndVariables.pdb
+C:\Users\Borja\VisualBasicLearning\OutputAndVariables\OutputAndVariables\bin\Debug\OutputAndVariables.xml
+C:\Users\Borja\VisualBasicLearning\OutputAndVariables\OutputAndVariables\obj\Debug\OutputAndVariables.vbprojAssemblyReference.cache
+C:\Users\Borja\VisualBasicLearning\OutputAndVariables\OutputAndVariables\obj\Debug\OutputAndVariables.Form1.resources
+C:\Users\Borja\VisualBasicLearning\OutputAndVariables\OutputAndVariables\obj\Debug\OutputAndVariables.Resources.resources
+C:\Users\Borja\VisualBasicLearning\OutputAndVariables\OutputAndVariables\obj\Debug\OutputAndVariables.vbproj.GenerateResource.cache
+C:\Users\Borja\VisualBasicLearning\OutputAndVariables\OutputAndVariables\obj\Debug\OutputAndVariables.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\VisualBasicLearning\OutputAndVariables\OutputAndVariables\obj\Debug\OutputAndVariables.exe
+C:\Users\Borja\VisualBasicLearning\OutputAndVariables\OutputAndVariables\obj\Debug\OutputAndVariables.xml
+C:\Users\Borja\VisualBasicLearning\OutputAndVariables\OutputAndVariables\obj\Debug\OutputAndVariables.pdb

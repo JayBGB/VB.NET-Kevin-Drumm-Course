@@ -1,0 +1,15 @@
+C:\Users\Borja\source\repos\SerializationWithJSON\SerializationWithJSON\bin\Debug\SerializationWithJSON.exe.config
+C:\Users\Borja\source\repos\SerializationWithJSON\SerializationWithJSON\bin\Debug\SerializationWithJSON.exe
+C:\Users\Borja\source\repos\SerializationWithJSON\SerializationWithJSON\bin\Debug\SerializationWithJSON.pdb
+C:\Users\Borja\source\repos\SerializationWithJSON\SerializationWithJSON\bin\Debug\SerializationWithJSON.xml
+C:\Users\Borja\source\repos\SerializationWithJSON\SerializationWithJSON\obj\Debug\SerializationWithJSON.Form1.resources
+C:\Users\Borja\source\repos\SerializationWithJSON\SerializationWithJSON\obj\Debug\SerializationWithJSON.Resources.resources
+C:\Users\Borja\source\repos\SerializationWithJSON\SerializationWithJSON\obj\Debug\SerializationWithJSON.vbproj.GenerateResource.cache
+C:\Users\Borja\source\repos\SerializationWithJSON\SerializationWithJSON\obj\Debug\SerializationWithJSON.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\source\repos\SerializationWithJSON\SerializationWithJSON\obj\Debug\SerializationWithJSON.exe
+C:\Users\Borja\source\repos\SerializationWithJSON\SerializationWithJSON\obj\Debug\SerializationWithJSON.xml
+C:\Users\Borja\source\repos\SerializationWithJSON\SerializationWithJSON\obj\Debug\SerializationWithJSON.pdb
+C:\Users\Borja\source\repos\SerializationWithJSON\SerializationWithJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Borja\source\repos\SerializationWithJSON\SerializationWithJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Borja\source\repos\SerializationWithJSON\SerializationWithJSON\obj\Debug\SerializationWithJSON.vbprojAssemblyReference.cache
+C:\Users\Borja\source\repos\SerializationWithJSON\SerializationWithJSON\obj\Debug\SerializationWithJSON.vbproj.CopyComplete

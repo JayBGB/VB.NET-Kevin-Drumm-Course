@@ -1,0 +1,12 @@
+C:\Users\Borja\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\bin\Debug\TwoDimensionalArrays.exe.config
+C:\Users\Borja\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\bin\Debug\TwoDimensionalArrays.exe
+C:\Users\Borja\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\bin\Debug\TwoDimensionalArrays.pdb
+C:\Users\Borja\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\bin\Debug\TwoDimensionalArrays.xml
+C:\Users\Borja\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\TwoDimensionalArrays.vbprojAssemblyReference.cache
+C:\Users\Borja\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\TwoDimensionalArrays.Form1.resources
+C:\Users\Borja\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\TwoDimensionalArrays.Resources.resources
+C:\Users\Borja\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\TwoDimensionalArrays.vbproj.GenerateResource.cache
+C:\Users\Borja\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\TwoDimensionalArrays.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\TwoDimensionalArrays.exe
+C:\Users\Borja\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\TwoDimensionalArrays.xml
+C:\Users\Borja\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\TwoDimensionalArrays.pdb

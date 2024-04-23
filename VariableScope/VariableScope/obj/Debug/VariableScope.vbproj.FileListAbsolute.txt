@@ -1,0 +1,12 @@
+C:\Users\Borja\source\repos\VariableScope\VariableScope\bin\Debug\VariableScope.exe.config
+C:\Users\Borja\source\repos\VariableScope\VariableScope\bin\Debug\VariableScope.exe
+C:\Users\Borja\source\repos\VariableScope\VariableScope\bin\Debug\VariableScope.pdb
+C:\Users\Borja\source\repos\VariableScope\VariableScope\bin\Debug\VariableScope.xml
+C:\Users\Borja\source\repos\VariableScope\VariableScope\obj\Debug\VariableScope.Form1.resources
+C:\Users\Borja\source\repos\VariableScope\VariableScope\obj\Debug\VariableScope.logon.resources
+C:\Users\Borja\source\repos\VariableScope\VariableScope\obj\Debug\VariableScope.Resources.resources
+C:\Users\Borja\source\repos\VariableScope\VariableScope\obj\Debug\VariableScope.vbproj.GenerateResource.cache
+C:\Users\Borja\source\repos\VariableScope\VariableScope\obj\Debug\VariableScope.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\source\repos\VariableScope\VariableScope\obj\Debug\VariableScope.exe
+C:\Users\Borja\source\repos\VariableScope\VariableScope\obj\Debug\VariableScope.xml
+C:\Users\Borja\source\repos\VariableScope\VariableScope\obj\Debug\VariableScope.pdb

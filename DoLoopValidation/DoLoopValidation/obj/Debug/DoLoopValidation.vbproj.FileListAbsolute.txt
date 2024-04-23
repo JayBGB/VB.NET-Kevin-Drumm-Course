@@ -1,0 +1,11 @@
+C:\Users\Borja\source\repos\DoLoopValidation\DoLoopValidation\bin\Debug\DoLoopValidation.exe.config
+C:\Users\Borja\source\repos\DoLoopValidation\DoLoopValidation\bin\Debug\DoLoopValidation.exe
+C:\Users\Borja\source\repos\DoLoopValidation\DoLoopValidation\bin\Debug\DoLoopValidation.pdb
+C:\Users\Borja\source\repos\DoLoopValidation\DoLoopValidation\bin\Debug\DoLoopValidation.xml
+C:\Users\Borja\source\repos\DoLoopValidation\DoLoopValidation\obj\Debug\DoLoopValidation.Form1.resources
+C:\Users\Borja\source\repos\DoLoopValidation\DoLoopValidation\obj\Debug\DoLoopValidation.Resources.resources
+C:\Users\Borja\source\repos\DoLoopValidation\DoLoopValidation\obj\Debug\DoLoopValidation.vbproj.GenerateResource.cache
+C:\Users\Borja\source\repos\DoLoopValidation\DoLoopValidation\obj\Debug\DoLoopValidation.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\source\repos\DoLoopValidation\DoLoopValidation\obj\Debug\DoLoopValidation.exe
+C:\Users\Borja\source\repos\DoLoopValidation\DoLoopValidation\obj\Debug\DoLoopValidation.xml
+C:\Users\Borja\source\repos\DoLoopValidation\DoLoopValidation\obj\Debug\DoLoopValidation.pdb

@@ -1,0 +1,12 @@
+C:\Users\Borja\VisualBasicLearning\CountUp\CountUp\bin\Debug\CountUp.exe.config
+C:\Users\Borja\VisualBasicLearning\CountUp\CountUp\bin\Debug\CountUp.exe
+C:\Users\Borja\VisualBasicLearning\CountUp\CountUp\bin\Debug\CountUp.pdb
+C:\Users\Borja\VisualBasicLearning\CountUp\CountUp\bin\Debug\CountUp.xml
+C:\Users\Borja\VisualBasicLearning\CountUp\CountUp\obj\Debug\CountUp.Form1.resources
+C:\Users\Borja\VisualBasicLearning\CountUp\CountUp\obj\Debug\CountUp.Resources.resources
+C:\Users\Borja\VisualBasicLearning\CountUp\CountUp\obj\Debug\CountUp.vbproj.GenerateResource.cache
+C:\Users\Borja\VisualBasicLearning\CountUp\CountUp\obj\Debug\CountUp.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\VisualBasicLearning\CountUp\CountUp\obj\Debug\CountUp.exe
+C:\Users\Borja\VisualBasicLearning\CountUp\CountUp\obj\Debug\CountUp.xml
+C:\Users\Borja\VisualBasicLearning\CountUp\CountUp\obj\Debug\CountUp.pdb
+C:\Users\Borja\VisualBasicLearning\CountUp\CountUp\obj\Debug\CountUp.vbprojAssemblyReference.cache
